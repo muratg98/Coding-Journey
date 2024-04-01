@@ -1,7 +1,7 @@
 Academic Achievements
 
-BSc Psychology - First Class Honours
-MSc Health Psychology - Merit
+- BSc Psychology - First Class Honours
+- MSc Health Psychology - Merit
 
 Coding Journey / My Background
 
